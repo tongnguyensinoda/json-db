@@ -1,16 +1,40 @@
 {
-  "posts":[
+  "locations": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "tong",
+      "latitude": 16.29,
+      "longitude": 106.69,
+      "rating": 5,
+      "numberOfTest": 0,
+      "address": "2055/21 Pham The hien",
+      "id": 4
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "kgjhgkjjh",
+      "rating": 3,
+      "numberOfTest": 0,
+      "address": "205/21 Pham The hien",
+      "latitude": 10.667697493011243,
+      "longitude": 106.6877630352974,
+      "id": 5
+    },
+    {
+      "name": "Hona",
+      "rating": 2,
+      "numberOfTest": 0,
+      "address": "2055/1 Pham The hien",
+      "latitude": 10.729692031831625,
+      "longitude": 106.6965539753437,
+      "id": 9
+    },
+    {
+      "name": "hue",
+      "rating": 4,
+      "numberOfTest": 0,
+      "address": "2/21 Pham The hien",
+      "latitude": 10.718886720078933,
+      "longitude": 106.69770430773498,
+      "id": 10
     }
   ]
 }
